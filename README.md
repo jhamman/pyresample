@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/mraspaud/pyresample.svg?branch=master)](https://travis-ci.org/mraspaud/pyresample)
-
+[![Build Status](https://travis-ci.org/jhamman/pyresample.svg)](https://travis-ci.org/jhamman/pyresample)
 Python package for geospatial resampling
 ----------------------------------------
 
